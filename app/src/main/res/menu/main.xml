@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mtroysi.m2sili.explorer.Explorer">
+
+    <item
+        android:id="@+id/create_rep"
+        android:title="Créer un répertoire"
+        app:showAsAction="never">
+    </item>
+    <item android:id="@+id/create_file" android:title="Créer un fichier"></item>
+
+</menu>
